@@ -12,3 +12,10 @@ Here the TfidfVectorizer and cosine_similarity are implemented from scratch.
 
 ## job_recommender.ipynb
 This uses sklearn library.
+
+## Related Project
+The notebook in this repository is used to to create a recommendation system for a job portal website.
+- [Job Portal Frontend](https://github.com/The-SP/Job-Portal-Frontend)
+- [Job Portal Backend](https://github.com/The-SP/Job-Portal-Backend)  
+
+You can use the links above to access the code for the job portal website.
